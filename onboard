@@ -1,0 +1,24 @@
+
+    <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="globals.css">
+<link rel="stylesheet" href="styleguide.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="qun-mt-khu" ><img class="ha-tit-cnh-cha" src="img/h-a-ti-t-c-nh-ch-a.png" />
+<div class="frame" ><div class="icontyl-plus-light" ></div>
+<div class="div" ><div class="text-wrapper" >Quên mật khẩu?</div>
+<img class="group" src="img/group-48096766.png" />
+<p class="p" >Vui lòng điền mail đăng ký</p>
+<div class="rectangle" ></div>
+<div class="text-wrapper-2" >Nhận mật khẩu</div>
+<img class="vector" src="img/vector-793.svg" />
+<div class="frame-2" ><img class="img" src="img/mail.svg" />
+<div class="label" >Nhập địa chỉ email....</div></div></div></div>
+<img class="group-2" src="img/group-34151.png" /></div>
+</body>
+</html>
